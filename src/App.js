@@ -10,7 +10,7 @@ import {
   Route,
   Link,
 } from "react-router-dom";
-} from 'react-router-dom';
+
 import Cart from './features/cart/Cart';
 import CartPage from './pages/CartPage';
 
